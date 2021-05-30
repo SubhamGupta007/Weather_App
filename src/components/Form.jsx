@@ -1,7 +1,7 @@
 import { Box, TextField, Button, makeStyles } from '@material-ui/core'
 import { getdata } from './api'
 import { useEffect, useState } from 'react'
-import LocationOnIcon from '@material-ui/icons/LocationOn';
+
 import Information from './Information'
 const usestyle = makeStyles({
     component: {

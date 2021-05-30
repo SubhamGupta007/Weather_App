@@ -2,6 +2,7 @@ import { Box, makeStyles } from '@material-ui/core';
 import logo from '../images/back.png'
 import Form from './Form'
 
+
 const useStyles = makeStyles({
     component: {
         justifyContent: 'center',
